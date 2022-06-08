@@ -15,7 +15,7 @@ export default function Home() {
       <main className={styles.main}>
         <h1 className={styles.title}>We are Rizo</h1>
 
-        <p className={styles.description}>Dream, build, repeat.</p>
+        <p className={styles.subtitle}>Dream, build, repeat.</p>
         <p className={styles.description}>What can we help you with?</p>
 
         <div className={styles.grid}>
